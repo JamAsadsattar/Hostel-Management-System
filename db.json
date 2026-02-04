@@ -1,0 +1,56 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "roomNumber": "A-101",
+      "type": "Single",
+      "capacity": 1
+    },
+    {
+      "id": 2,
+      "roomNumber": "A-102",
+      "type": "Double",
+      "capacity": 2
+    },
+    {
+      "id": 3,
+      "roomNumber": "B-201",
+      "type": "Double",
+      "capacity": 2
+    }
+  ],
+  "bookings": [
+    {
+      "studentName": "ahsanullah",
+      "rollNo": "1075",
+      "roomId": 1,
+      "checkIn": "2026-01-25",
+      "checkOut": "2026-01-27",
+      "id": 1
+    },
+    {
+      "studentName": "ali",
+      "rollNo": "1077",
+      "roomId": 2,
+      "checkIn": "2026-01-25",
+      "checkOut": "2026-01-27",
+      "id": 2
+    },
+    {
+      "studentName": "abdullah",
+      "rollNo": "1203",
+      "roomId": 1,
+      "checkIn": "2026-01-25",
+      "checkOut": "2026-01-27",
+      "id": 3
+    },
+    {
+      "studentName": "asad sattar",
+      "rollNo": "1206",
+      "roomId": 1,
+      "checkIn": "2026-02-04",
+      "checkOut": "2026-02-07",
+      "id": 4
+    }
+  ]
+}
